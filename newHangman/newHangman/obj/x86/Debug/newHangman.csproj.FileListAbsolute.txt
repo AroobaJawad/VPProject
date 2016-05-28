@@ -1,0 +1,26 @@
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.main_form.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.Hangmanfm.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.myDialogue.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\bin\Debug\newHangman.exe.manifest
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\bin\Debug\newHangman.application
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\bin\Debug\newHangman.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\bin\Debug\newHangman.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.exe.manifest
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.application
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\x86\Debug\newHangman.pdb
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.exe
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.pdb
+C:\Users\Home\Desktop\newHangman\newHangman\bin\Debug\newHangman.exe.manifest
+C:\Users\Home\Desktop\newHangman\newHangman\bin\Debug\newHangman.application
+C:\Users\Home\Desktop\newHangman\newHangman\bin\Debug\newHangman.exe
+C:\Users\Home\Desktop\newHangman\newHangman\bin\Debug\newHangman.pdb
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.main_form.resources
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.Hangmanfm.resources
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.myDialogue.resources
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.Properties.Resources.resources
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.exe.manifest
+C:\Users\Home\Desktop\newHangman\newHangman\obj\x86\Debug\newHangman.application

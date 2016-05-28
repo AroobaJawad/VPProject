@@ -1,0 +1,5 @@
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\Debug\newHangman.main_form.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\Debug\newHangman.Hangmanfm.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\Debug\newHangman.myDialogue.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\Debug\newHangman.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\newHangman\newHangman\obj\Debug\newHangman.csproj.GenerateResource.Cache
